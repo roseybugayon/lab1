@@ -45,4 +45,6 @@ We are currently on steps 4 and 5. We are attempting presenting the data in diff
 
 ## Summer Engineering Institute
 
-I think my favorite part of attending UCSD through the Jacobs School of Engineering was having the opportunity to attend the Summer Engineering Institute. This was probably, as of today, my most fondest memory of college. I made the majority of my current friends at this summer program and essentially met the rest of my friends through their friends. I think more engineering students should attend this program because it was an amazing introduction and transition into college. For some pictures of the program, [go here](/SEI_images).
+I think my favorite part of attending UCSD through the Jacobs School of Engineering was having the opportunity to attend the Summer Engineering Institute. This was probably, as of today, my most fondest memory of college. I made the majority of my current friends at this summer program and essentially met the rest of my friends through their friends. I think more engineering students should attend this program because it was an amazing introduction and transition into college.
+
+One significant part of the program was the ENG 10 class. We had to make a product using an arduino circuit. My group decided to create a security watch that beeped if certain movements or sound frequencies are detected. To see our prototype, [go here](/SEI_images).
