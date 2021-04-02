@@ -8,12 +8,13 @@
 
 ## Table of Contents
 
-- [My beginning](https://github.com/roseybugayon/lab1/blob/another-read-me/index.md#my-beginning)
+- [My Beginning](https://github.com/roseybugayon/lab1/blob/another-read-me/index.md#my-beginning)
 - [UCSD](https://github.com/roseybugayon/lab1/blob/another-read-me/index.md#ucsd)
 - [Research](https://github.com/roseybugayon/lab1/blob/another-read-me/index.md#research)
 - [Summer Engineering Institute](https://github.com/roseybugayon/lab1/blob/another-read-me/index.md#summer-engineering-institute)
+- [Goals for the Future](https://github.com/roseybugayon/lab1/blob/another-read-me/index.md#goals-for-the-future)
 
-## My beginning
+## My Beginning
 
 As both a programmer and a person, a quote that speaks to me the most and keeps me motivated to keep moving forward is the following:
 
@@ -58,7 +59,7 @@ I think my favorite part of attending UCSD through the Jacobs School of Engineer
 
 One significant part of the program was the ENG 10 class. We had to make a product using an arduino circuit. My group decided to create a security watch that beeped if certain movements or sound frequencies are detected. To see our prototype, [go here](/SEI_images).
 
-## Goals For the Future
+## Goals for the Future
 
 I am proud of what I have accomplished so far, but I still have high goals for myself in the future:
 
